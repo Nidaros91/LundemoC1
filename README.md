@@ -1,7 +1,7 @@
 <html>
 
     <head>
-       <strong>My Family</strong>
+       <bold>My Family</bold>
 
 <h1>Christine Hammeren</h1>
 
