@@ -5,7 +5,7 @@
 
 <h1>Christine Hammeren</h1>
 
-<br>img src=«https://www.facebook.com/photo?fbid=10156418537095097&set=a.10150094630265097"
+<br> <img src=«https://www.facebook.com/photo?fbid=10156418537095097&set=a.10150094630265097">
 
 <p> This is Christine. She just celebrated her 28th birthday and we have been living together with our dog for almost 3 years now </p>
 
